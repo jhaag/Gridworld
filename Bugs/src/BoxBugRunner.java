@@ -15,7 +15,6 @@
  * @author Chris Nevison
  * @author Barbara Cloud Wells
  */
-
 import info.gridworld.actor.ActorWorld;
 import info.gridworld.actor.Rock;
 import info.gridworld.grid.Location;
